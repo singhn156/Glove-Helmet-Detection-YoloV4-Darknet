@@ -6,6 +6,7 @@ Such models can be used for a variety of applications which are not limited to s
 ## 1. Image Source
 
 * Images were collected from [Google Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html)
+* Dependent folders and Files used in Codes on [Google Drive](https://drive.google.com/drive/folders/1WXq05wOYd6pf9LU0DCi2eVLl6xsPaB-C?usp=sharing)
 
 ## 2. Deep Learning Model
 
