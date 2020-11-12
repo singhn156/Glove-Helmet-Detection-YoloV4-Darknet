@@ -42,7 +42,7 @@ Command for Video:
 `!./darknet detector demo data/Glove_Helmet/image_data.data cfg/yolov4_train.cfg /currdrive/YOLO_V4/darknet/backup/yolov4_train_last.weights /currdrive/YOLO_V4/darknet/data/test_data/Workers_dance2.mp4 -out_filename result3.mp4 -ext_output -dont_show`
 
 Output Video:
-[![Fifth Harmony song](http://img.youtube.com/vi/q6YMFKUJukY/0.jpg)](http://www.youtube.com/watch?v=q6YMFKUJukY)
+[![Fifth Harmony song](http://img.youtube.com/vi/2kOgc9fgkAk/0.jpg)](http://www.youtube.com/watch?v=2kOgc9fgkAk)
 
 
 
